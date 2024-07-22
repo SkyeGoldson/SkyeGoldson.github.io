@@ -1,5 +1,20 @@
 ---
-title: "SkyeGoldson_Website"
+title: Skye Goldson
+image: img/Skye_pic.jpg
+about: 
+    template: trestles
+    image-shape: round
+    image-width: 16em
+    links: 
+      - icon: envelope
+        text: Email
+        href: mailto: skyegopro@gmail.com
+      - icon: github
+        text: GitHub
+        href: https://github.com/SkyeGoldson
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/skye-goldson-35b0bb234
 ---
 
 This is a Quarto website.
