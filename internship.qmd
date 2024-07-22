@@ -1,15 +1,18 @@
 ---
-
 title: "Interships"
-
 description: A list of internships that I have been active in/currently working on.
-
 format:
-
-html:
-
-toc: true
-
-toc-title: "Internship List"
-
+  html:
+    toc: true
+    toc-title: "Internship List"
 ---
+
+**Irvine Summer Institute in Biostatistics and Undergraduate Data Science**
+
+Summer Institutes in Biostatistics (SIBS) and Data Science - Internship
+
+July 24th, 2024 - August 2nd, 2024 \[6 weeks\]
+
+Irvine, California, United States \[On-site\]
+
+Currently ongoing
