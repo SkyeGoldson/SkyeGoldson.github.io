@@ -1,6 +1,6 @@
 ---
 title: Skye Goldson
-image: img/Skye_pic.jpg
+image: Images/Skye_pic.jpg
 about: 
     template: trestles
     image-shape: round
